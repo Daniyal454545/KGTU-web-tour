@@ -1,0 +1,32 @@
+/* body{r */
+
+.plan-floor{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.plan-header{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    background-color: #784cfb;;
+    border: 1px;
+    border-radius: 15px;
+}
+
